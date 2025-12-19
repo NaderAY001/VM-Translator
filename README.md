@@ -10,7 +10,7 @@ Step 2. Use this command to compile the program:
 
 Step 3. Make a file to be your input. For example you can use the basic.vm file to test this program. The input file must have valid Jack code syntax.
 
-Step 4. Run the following command
+Step 4. Run the following command:
 ```java translate inputFile.vm outputFile,asm```
 
 You must be in the same directory as your compiled files and input file or else this will not work.
