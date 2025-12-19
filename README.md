@@ -8,7 +8,7 @@ Step 1. Download the 3 files: translate.java, CodeWriter.java, and Parser.java
 Step 2. Use this command to compile the program:
 ```javac translate.java CodeWriter.java Parser.java```
 
-Step 3. Make a file to be your input. For example you can use the basic.vm file to test this program. The input file must have valid Jack code syntax.
+Step 3. Make a file to be your input. For example you can use the BasicTest.vm file to test this program. The input file must have valid Jack code syntax.
 
 Step 4. Run the following command:
 ```java translate inputFile.vm outputFile,asm```
